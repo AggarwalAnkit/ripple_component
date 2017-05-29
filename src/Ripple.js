@@ -6,6 +6,8 @@ import {
   TouchableWithoutFeedback
 } from 'react-native';
 
+//This is just an idea not an exact implementation for creating ripple component.
+//We can modify this code to make it reusable ripple component
 class Ripple extends PureComponent {
 
     constructor(props, context) {
